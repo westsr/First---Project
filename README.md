@@ -1,4 +1,4 @@
 # First-Project
-# NAME: WESLEY
+# NOME: WESLEY
 # EMPRESA: IMPACTA
 # FUNÇÃO: ALUNO
